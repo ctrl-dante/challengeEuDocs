@@ -1,4 +1,4 @@
-site_name: challengeEU Documentation
+site_name: ChallengeEU Documentation
 
 
 theme:
@@ -10,6 +10,8 @@ theme:
   font:
     text: 'Alegreya'
     code: 'Fira Code'
+  logo: 'images/logo260_80.svg'
+  favicon: 'images/favicon.ico'
 extra_css:
   - stylesheets/extra.css
 extra_javascript:
