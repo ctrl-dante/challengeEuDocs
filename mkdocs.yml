@@ -1,6 +1,20 @@
-site_name: challengeEUDocs
+site_name: challengeEUDocssss
+
+
 theme:
   name: material
+  palette:
+    primary: '#571714'    #  brand color
+    accent: '#FF6F00'     # secondary brand color
+  font:
+    text: 'DM Sans'
+    code: 'Fira Code'
+  extra_css:
+  - css/custom.css
+  # logo: 'images/logo.png'
+  # favicon: 'images/favicon.ico
+
+
 
 nav:
   - Home: index.md
@@ -21,3 +35,6 @@ nav:
       - Team: project/team.md
       - Contact: project/contact.md
       - Hosting: project/hosting.md
+  - Test Folder:    
+      - Team: project/team.md
+
