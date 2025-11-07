@@ -1,0 +1,13 @@
+:root {
+  /* Change the primary background color (for header, sidebar, etc.) */
+  --md-primary-fg-color: #571714 !important; /* Your brand primary color */ 
+  
+  /* Change the accent/highlight color (for links, buttons, scrollbars) */
+  --md-accent-fg-color: #FF6F00; /* Your brand secondary color */
+  
+  /* Change the text color in the main content area */
+  --md-default-fg-color: rgba(0, 0, 0, 0.87); 
+  
+  /* Change the background color of the main content area */
+  --md-default-bg-color: #f7f7f7; 
+}
