@@ -1,20 +1,24 @@
-site_name: challengeEUDocssss
+site_name: challengeEU Documentation
 
 
 theme:
   name: material
+  # custom_dir: overrides
   palette:
     primary: '#571714'    #  brand color
     accent: '#FF6F00'     # secondary brand color
   font:
-    text: 'DM Sans'
+    text: 'Alegreya'
     code: 'Fira Code'
-  extra_css:
-  - css/custom.css
+extra_css:
+  - stylesheets/extra.css
+extra_javascript:
+  - javascripts/extra.js
   # logo: 'images/logo.png'
   # favicon: 'images/favicon.ico
 
 
+# Direct Mapping 
 
 nav:
   - Home: index.md
@@ -23,18 +27,10 @@ nav:
       - Colors: branding/colors.md
       - Typography: branding/typography.md
   - Developer Guide:
-      - Setup: developer/setup.md
-      - Theme: developer/theme.md
-      - Plugins: developer/plugins.md
-      - Deployment: developer/deployment.md
+      - Setup: developer/developer.md
   - WordPress Guide:
       - Forms: wordpress/forms.md
-      - Content Editing: wordpress/content-editing.md
-      - Menus: wordpress/menus.md
-  - Project Info:
-      - Team: project/team.md
-      - Contact: project/contact.md
-      - Hosting: project/hosting.md
-  - Test Folder:    
-      - Team: project/team.md
+      - Content: wordpress/content.md
+      - Staging: wordpress/staging.md
+
 
