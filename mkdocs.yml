@@ -1,0 +1,23 @@
+site_name: challengeEUDocs
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Branding:
+      - Logo: branding/logo.md
+      - Colors: branding/colors.md
+      - Typography: branding/typography.md
+  - Developer Guide:
+      - Setup: developer/setup.md
+      - Theme: developer/theme.md
+      - Plugins: developer/plugins.md
+      - Deployment: developer/deployment.md
+  - WordPress Guide:
+      - Forms: wordpress/forms.md
+      - Content Editing: wordpress/content-editing.md
+      - Menus: wordpress/menus.md
+  - Project Info:
+      - Team: project/team.md
+      - Contact: project/contact.md
+      - Hosting: project/hosting.md
