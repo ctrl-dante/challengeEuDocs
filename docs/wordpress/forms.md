@@ -19,6 +19,10 @@ Learn the structure of form questions and how to design them for clarity and usa
 - **Official CSS Guide:** [Gravity Forms CSS Reference](https://gravityforms.s3.us-east-1.amazonaws.com/support/docs/css_guide/css_guide.html)
 - **Elementor Integration Guide:** [Gravity Forms + Elementor](https://www.gravitykit.com/gravity-forms-elementor/)
 - **Gravity Forms Styling Widget:** [Gravity Forms Elementor Widget](https://www.gravitykit.com/products/gravity-forms-elementor-widget/)
+- **Gravity Survey:** [Gravity Survey](https://docs.gravityforms.com/survey/)
+- **Gravity Survey Addon:** [Gravity Survey Addon](https://www.gravityforms.com/add-ons/survey/)
+- **Gravity CSS API:** [CSS API]( https://docs.gravityforms.com/css-api/)
+
 
 ### Consistent Styling Across the Site
 To make all forms follow the same styling:
